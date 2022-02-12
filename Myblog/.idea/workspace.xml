@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:123456" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf30b1a4-9698-4b3f-8f2f-08105262d2c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blog/migrations/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../爬虫/学习/01相关性分析.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/Myblog1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/Myblog1/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/Myblog1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/Myblog1/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/templates/blog/blog-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/templates/blog/blog_add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/templates/blog/blog_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/templates/blog/blog_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/templates/blog/blog_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../编程/Mybolg1/templates/blog/blog_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/12306.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/126.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/EA/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/Google.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/Patreon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/amazon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/apple.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/b站.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/epic.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/etest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/facebook.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/fold it.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/gitee.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/github.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/gog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/mathwork(matlab).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/microsoft.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/mihoyo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/pixiv.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/pokemongo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/qq.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/send anywhere.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/skyey snow.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/sony.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/steam/1522061130416.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/steam/QN]%M9Q8CF`$2WF(5XNIW3K.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/steam/parade（城市天际线）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/steam/steam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/steam/steam邮箱备用验证码.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/vpn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/windows.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/三叶草（信息）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/中南大学/学生平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/云平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/亲小说.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/华为.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/如何查询消防志愿者网站上的信息.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/子然动画/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/子然动画/c0be2dcbdbc5046bac88c30c84dabfd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/学习通.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/学信网/学信网.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/学信网/无标题.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/崩三.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/微信.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/数字人民币.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/新建文本文档.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/方块游戏.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/智慧团建.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/杭电习题集.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/火狐.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/爱读书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/百度网盘.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/真白萌.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/神凑轻小说.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/编程题集/PTA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/编程题集/PWHSLQ}`Y1EOCZ)FV)S7`IP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/考试.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/计算机考试.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/速盘.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/速盘极速版激活码.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/速盘激活码.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/钉钉.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/高考.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../账号密码/魔戒.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python&amp;excle/1.3文件的读取和写入.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python&amp;excle/1.3文件的读取和写入.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python&amp;excle/1.4matplotlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python&amp;excle/1.4matplotlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python&amp;excle/1.4数据表的拼接.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python&amp;excle/1.4数据表的拼接.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python&amp;excle/1.5xlwings交互.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python&amp;excle/1.5xlwings交互.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python的excle办公/1.1生成工作簿.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../编程/djangoProject/book/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../编程/djangoProject/book/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../编程/djangoProject/db_test/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../编程/djangoProject/db_test/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../编程/djangoProject/model_test/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../编程/djangoProject/model_test/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../编程/djangoProject/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../编程/djangoProject/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../编程/djangoProject/templates/book/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../编程/djangoProject/templates/book/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../编程/djangoProject/templates/book/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../编程/djangoProject/templates/book/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../编程/djangoProject/templates/book/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../编程/djangoProject/templates/book/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../编程/djangoProject/templates/book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../编程/djangoProject/templates/book/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../编程/djangoProject/templates/book/mokuaibianliang.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../编程/djangoProject/templates/book/mokuaibianliang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../编程/djangoProject/templates/book/show_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../编程/djangoProject/templates/book/show_tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../编程/machine learning/day01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../编程/machine learning/day01.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="JupyterTrust" id="23e2683e-b303-4652-a786-bfcac4eb0065" />
+  <component name="ProjectId" id="250J0P3kYAL3O8PqeU6qOJsnNZc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Myblog/settings.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Myblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python\SoftWareSpace\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="blog" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Myblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Myblog.settings" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://bd@127.0.0.1:1234/home/bd/.virtualenvs/django1/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf30b1a4-9698-4b3f-8f2f-08105262d2c4" name="Default Changelist" comment="" />
+      <created>1644657846956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644657846956</updated>
+      <workItem from="1644657848171" duration="2102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="867" y="135" key="#Deployment" timestamp="1644658278798">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="867" y="135" key="#Deployment/0.0.1707.920@0.0.1707.920" timestamp="1644658278798" />
+    <state x="404" y="129" width="1089" height="791" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1644658750291">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="404" y="129" width="1089" height="791" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1644658750291" />
+    <state x="886" y="337" key="FileChooserDialogImpl" timestamp="1644658700483">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="886" y="337" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1644658700483" />
+    <state width="810" height="233" key="GridCell.Tab.0.bottom" timestamp="1644658902305">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="810" height="233" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1644658902305" />
+    <state width="810" height="233" key="GridCell.Tab.0.center" timestamp="1644658902305">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="810" height="233" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1644658902305" />
+    <state width="810" height="233" key="GridCell.Tab.0.left" timestamp="1644658902305">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="810" height="233" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1644658902305" />
+    <state width="810" height="233" key="GridCell.Tab.0.right" timestamp="1644658902305">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="810" height="233" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1644658902305" />
+    <state x="495" y="116" key="SettingsEditor" timestamp="1644658702452">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="495" y="116" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1644658702452" />
+    <state x="1068" y="127" key="ftp.server.browser" timestamp="1644658243875">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="1068" y="127" key="ftp.server.browser/0.0.1707.920@0.0.1707.920" timestamp="1644658243875" />
+  </component>
+</project>
