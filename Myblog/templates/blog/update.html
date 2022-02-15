@@ -1,0 +1,20 @@
+{% extends 'blog/base.html'%}
+
+{% block title %}
+博客修改页
+{% endblock %}
+
+
+
+{% block main %}
+{#    <form action="{% url 'blog_update'%}" method="post">#}
+    <form action="" method="post">{% csrf_token %}
+{#        #此处不能添加路由#}
+        标题 <input type="text" id="title" name="title" value="{{ blog.title }}"> <br>
+      <div class="status">发布于：{{ blog.time }} </div>
+    内容 <textarea name="content" id="content" cols="30" rows="10" >{{ blog.content }}</textarea>
+        <button type="submit">确认修改</button>
+    </form>
+
+
+{% endblock %}

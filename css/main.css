@@ -1,3 +1,4 @@
+
 body {
     background: #454545;
     line-height: 1.7;
@@ -47,7 +48,7 @@ a, body {
 }
 
 .header .logo{
-    line-height: 1;
+    line-height: 6;
     border: 5px solid #eee;
     padding: 10px 20px;
     font-size: 30px;
@@ -95,3 +96,14 @@ a, body {
     color: #454545;
     transition: 0.8s;
 }
+
+
+/* 添加页中的一些小改动 */
+/* .article-list, .article{
+    margin-right: 30%;
+    height: 100vh;
+    background-color: #fff;
+    padding: 20px 30px;
+    box-shadow: 0 0 3px 2px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 3px 2px rgba(0, 0, 0, .2);
+} */

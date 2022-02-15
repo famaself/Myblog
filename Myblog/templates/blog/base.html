@@ -1,40 +1,56 @@
+{% load static %}
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="ch-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="http://cdn.bootcss.com/normalize/5.0.0/normalize.min.css">
-  <link rel="stylesheet" href="css/main.css">
-  <title>基础页
-  </title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}
+        列表页
+    {% endblock %}</title>
+    <link rel="stylesheet" href="http://cdn.bootcss.com/normalize/5.0.0/normalize.min.css">
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
 </head>
 <body>
-<body>
+{% block side-bar %}
     <!-- 侧边栏 -->
     <div class="side-bar">
         <div class="header">
-            <a href="list.html" class="logo">My blog</a>
+            <a href="{% url 'blog_list' %}" class="logo">My blog</a>
             <div class="intro">Lorem ipsum dolor sit amet dolor sit ame.</div>
         </div>
         <div class="nav">
-            <a href="#" class="item">首页</a>
-            <a href="#" class="item">添加</a>
-            <a href="#" class="item">关于我</a>
+            <a href="{% url 'blog_index' %}" class="item">首页</a>
+            <a href="{% url 'blog_add' %}" class="item">添加</a>
+            <a href="{% url 'blog_list' %}" class="item">列表</a>
         </div>
         <div class="tag-list">
-            <a href="#" class="item">1</a>
-            <a href="#" class="item">2</a>
-            <a href="#" class="item">3</a>
-            
+            <a href="#" class="item">QQ</a>
+            <a href="#" class="item">BiliBili</a>
+            <a href="#" class="item">GitHub</a>
+
         </div>
-    
-  <div class="main">
-    <div class="arcticle">
-        <div class="status"></div>
-        <div class="content">asdfghjkl</div>
     </div>
-   
-  </div>
+{% endblock %}
+
+
+    <div class="main">
+    <div class="article-list article">
+        {% block main %}
+        <!-- 这里循环 -->
+        <div class="item">
+            <a href="detail.html" class="title">实例</a>
+            <div class="status">发布于：2050-10-01
+                <div><a href="#">编辑</a> | <a href="#">删除</a></div>
+            </div>
+            <div class="content">
+
+            </div>
+
+        </div>
+    </div>
+    </div>
+{% endblock %}
+
 </body>
 </html>
